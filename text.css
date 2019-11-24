@@ -1,0 +1,18 @@
+body{
+    background: radial-gradient(circle,yellowgreen, tan);
+}
+.hero{
+    box-sizing: border-box;
+    height: 50%;
+    width: 50%;
+    color: blue;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    text-shadow: 10px 12px 0px red ;
+    background:linear-gradient(90deg ,purple, orangered, skyblue);
+    text-align: center;
+    padding-top:60px ;
+    font-size: 30px;
+
+}
